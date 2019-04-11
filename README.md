@@ -7,3 +7,4 @@ Included:
 * Mon - setup Keras and Tensorflow on Anaconda
 * Tue - testing ResNet50
 * Wen - training CNN on MNIST
+* Thu - training CNN on CIPHER-10 with Google Colab (CPU vs GPU vs TPU speedtest)
