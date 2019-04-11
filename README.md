@@ -6,3 +6,4 @@ http://www.dataworkshop.eu/challenge
 Included:
 * Mon - setup Keras and Tensorflow on Anaconda
 * Tue - testing ResNet50
+* Wen - training CNN on MNIST
