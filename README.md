@@ -8,3 +8,4 @@ Included:
 * Tue - testing ResNet50
 * Wen - training CNN on MNIST
 * Thu - training CNN on CIPHER-10 with Google Colab (CPU vs GPU vs TPU speedtest)
+* Fri - CNN for binary classification on https://www.kaggle.com/c/dogs-vs-cats data
